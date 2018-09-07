@@ -1,6 +1,6 @@
 name: product-rating-service
 spring.database.driverClassName: "com.mysql.jdbc.Driver"
-spring.datasource.url: "jdbc:mysql://localhost:3306/stock?useSSL=false&allowPublicKeyRetrieval=true"
+spring.datasource.url: "jdbc:mysql://localhost:3306/Product?useSSL=false&allowPublicKeyRetrieval=true"
 spring.datasource.username: "root"
 spring.datasource.password: "password"
 spring.datasource.validationQuery: "SELECT 1"
